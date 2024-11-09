@@ -5,10 +5,10 @@ This project contains 2 dance routines created using Choregraphe for the NAO rob
 # Files
 
 -	First file: solo_jennie_take1
--	Contains ‘solo_jennie_take1.pml ‘ which has the dance sequence of Solo song by Jennie of Blackpink
+  -	Contains ‘solo_jennie_take1.pml ‘ which has the dance sequence of Solo song by Jennie of Blackpink
 
 -	Second file: task2_take1
--	Contains ‘task2_take1.pml’  which has the dance sequence of 1 remix song of Watch Me (Whip/Nae Nae) by Silentó, Super Shy by NewJeans, A Thousand Years by Christina Perri, and Gangnam Style by PSY.
+  -	Contains ‘task2_take1.pml’  which has the dance sequence of 1 remix song of Watch Me (Whip/Nae Nae) by Silentó, Super Shy by NewJeans, A Thousand Years by Christina Perri, and Gangnam Style by PSY.
 
 -	Use Choregraphe to open these files and deploy the dance to your NAO robot.
 
@@ -31,27 +31,27 @@ Add the .pml File Locally:
 
 # How to use
 
--	Download the two files [solo_jennie_take1 and task2_take1]
--	Open Choregraphe app
--	Select new project
--	Select upload button
+1.	Download the two files [solo_jennie_take1 and task2_take1]
+2.	Open Choregraphe app
+3.	Select new project
+4.	Select upload button
 
 ![Screenshot 2024-11-09 205230](https://github.com/user-attachments/assets/aae8107d-e6c6-44c7-9069-3ce8968af3ff)
 
--	Find one of the files (solo_jennie_take1.pml OR task2_take1.pml) and select it.
+5.	Find one of the files (solo_jennie_take1.pml OR task2_take1.pml) and select it.
 
--	Make sure autonomous life is switch off.
+6.	Make sure autonomous life is switch off.
 
--	Connect the stand up feature to the input button. Then save and run it. This is to make sure Nao stands up before it begins to dance.
+7.	Connect the stand up feature to the input button. Then save and run it. This is to make sure Nao stands up before it begins to dance.
 
--	Stop the program after the robot stands up.
+8.	Stop the program after the robot stands up.
 
--	Delete the stand up feature connection.
+9.	Delete the stand up feature connection.
 
--	Connect the play sound, say, timeline features to the input button. Save and run it. 
+10. Connect the play sound, say, timeline features to the input button. Save and run it. 
 
--	 ![Screenshot 2024-11-09 205245](https://github.com/user-attachments/assets/a5dbb80d-5404-46ee-b52a-082229fa0d2f)
+ ![Screenshot 2024-11-09 205245](https://github.com/user-attachments/assets/a5dbb80d-5404-46ee-b52a-082229fa0d2f)
 
--	The robot will begin to dance. 
+11. The robot will begin to dance. 
 
--	Stop the program after it has finished dancing.
+12. Stop the program after it has finished dancing.
