@@ -4,25 +4,18 @@ This project contains 2 dance routines created using Choregraphe for the NAO rob
 
 ## Files
 
--	First file: solo_jennie_take1
-  -	Contains ‘solo_jennie_take1.pml' which has the dance sequence of Solo song by Jennie of Blackpink
+First file: solo_jennie_take1
+ -	Contains ‘solo_jennie_take1.pml' which has the dance sequence of Solo song by Jennie of Blackpink
 
--	Second file: task2_take1
+Second file: task2_take1
   -	Contains ‘task2_take1.pml’  which has the dance sequence of 1 remix song of Watch Me (Whip/Nae Nae) by Silentó, Super Shy by NewJeans, A Thousand Years by Christina Perri, and Gangnam Style by PSY.
 
--	Use Choregraphe to open these files and deploy the dance to your NAO robot.
+Use Choregraphe to open these files and deploy the dance to your NAO robot.
 
 ## The objectives of this project
 
 -	First file focuses on the intermediate dance routines, involving synchronized body movements and song timing.
 -	Second file focuses on the audience interaction and multi-song dance routine.
-
-## Project Files
-
-- [Choregraphe Project File: group 4 NAO dancing](path/to/your_file.pml)  
-Add the .pml File Locally:
-•	On your computer, locate the .pml file from your Choregraphe project.
-•	Create a new folder for your GitHub project if you haven’t done so already, and move the .pml file there.
 
 ## Project Setup
 
